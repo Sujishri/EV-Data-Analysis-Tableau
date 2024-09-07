@@ -43,4 +43,20 @@ By developing this dashboard, the project seeks to:
 + Total BEV and % of Total BEV: Use a bar chart or KPI metric to show the total BEVs and calculate their percentage out of the total EVs.
 + Total PHEV and % of Total PHEV: Similarly, visualize PHEVs and their percentage relative to the total number of electric vehicles.
 
+5. Dashboard Development:
+  
++ Assemble the individual visualizations into a comprehensive dashboard.
++ Implement interactive filters for categories like vehicle type (BEV or PHEV), year of release, and vehicle range.
++ Add dynamic tooltips to display additional information when hovering over charts.
+  
+6. Dashboard Testing:
+
++ Review the dashboard for accuracy in calculations, consistency, and user experience.
++ Ensure that all filters and interactions are working as intended.
++ Get feedback from stakeholders to refine the design.
+  
+8. Dashboard Publication:
+   
++ Publish the dashboard to Tableau Public or Tableau Server, ensuring that all stakeholders can access it easily.
++ Test the published dashboard to ensure it retains interactivity and visual appeal in the online version.
 
