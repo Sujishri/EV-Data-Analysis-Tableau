@@ -15,3 +15,13 @@ By developing this dashboard, the project seeks to:
 3.Compare BEVs and PHEVs: Help stakeholders understand the relative market shares of BEVs and PHEVs, offering insight into the dominance of different EV technologies.
 
 4.Monitor Industry Performance: Empower decision-makers to assess the market dynamics and identify opportunities for further development in the EV sector.
+
+
+# Process:
+1. Understanding Requirements:
+Review the problem statement and the dataset containing electric vehicle information.
+Identify key KPIs such as total number of vehicles, average electric range, percentage of BEVs and PHEVs, and the distribution between BEV and PHEV vehicles.
+2. Data Preprocessing:
+Load the provided CSV file into Tableau.
+Clean the data by removing irrelevant columns, handling missing values, and ensuring the data is in a usable format.
+Create calculated fields if necessary, such as calculating the percentage of BEVs and PHEVs relative to the total EVs.
