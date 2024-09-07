@@ -22,7 +22,26 @@ By developing this dashboard, the project seeks to:
  
 + Review the problem statement and the dataset containing electric vehicle information.
 + Identify key KPIs such as total number of vehicles, average electric range, percentage of BEVs and PHEVs, and the distribution between BEV and PHEV vehicles.
-3. Data Preprocessing:
-Load the provided CSV file into Tableau.
-Clean the data by removing irrelevant columns, handling missing values, and ensuring the data is in a usable format.
-Create calculated fields if necessary, such as calculating the percentage of BEVs and PHEVs relative to the total EVs.
+
+2. Data Preprocessing:
+   
++ Load the provided CSV file into Tableau.
++ Clean the data by removing irrelevant columns, handling missing values, and ensuring the data is in a usable format.
++ Create calculated fields if necessary, such as calculating the percentage of BEVs and PHEVs relative to the total EVs.
+
+3. Dashboard Design:
+
++ Determine the most suitable visualizations to represent KPIs:
++ Total Vehicles: A simple count of all EVs.
++ Average Electric Range: A bar or line chart showing trends in the range over time or by model.
++ Total BEVs and PHEVs: Separate sections for BEVs and PHEVs, using pie charts or bar charts to show the distribution.
++ Design an intuitive layout for the dashboard with filters and interactive elements to allow users to explore the data based on vehicle type, year, or region.
+
+5. Data Visualization in Tableau:
+
++ Total Vehicles: Create a summary visualization showing the total number of electric vehicles.
++ Average Electric Range: Use a bar or line chart to represent the average electric range of vehicles across different models or years.
++ Total BEV and % of Total BEV: Use a bar chart or KPI metric to show the total BEVs and calculate their percentage out of the total EVs.
++ Total PHEV and % of Total PHEV: Similarly, visualize PHEVs and their percentage relative to the total number of electric vehicles.
+
+
