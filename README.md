@@ -19,9 +19,10 @@ By developing this dashboard, the project seeks to:
 
 # Process:
 1. Understanding Requirements:
-Review the problem statement and the dataset containing electric vehicle information.
-Identify key KPIs such as total number of vehicles, average electric range, percentage of BEVs and PHEVs, and the distribution between BEV and PHEV vehicles.
-2. Data Preprocessing:
+ 
++ Review the problem statement and the dataset containing electric vehicle information.
++ Identify key KPIs such as total number of vehicles, average electric range, percentage of BEVs and PHEVs, and the distribution between BEV and PHEV vehicles.
+3. Data Preprocessing:
 Load the provided CSV file into Tableau.
 Clean the data by removing irrelevant columns, handling missing values, and ensuring the data is in a usable format.
 Create calculated fields if necessary, such as calculating the percentage of BEVs and PHEVs relative to the total EVs.
