@@ -60,3 +60,15 @@ By developing this dashboard, the project seeks to:
 + Publish the dashboard to Tableau Public or Tableau Server, ensuring that all stakeholders can access it easily.
 + Test the published dashboard to ensure it retains interactivity and visual appeal in the online version.
 
+
+# Feature Details:
+
+The features of the project will include:
+
++ Total EVs (BEV and PHEV): A count of the total number of vehicles, broken down by type (BEV or PHEV).
++ Average Electric Range: Analysis of the average electric range of EVs to understand technological advancements.
++ Percentage of BEVs and PHEVs: Calculation of the market share for BEVs and PHEVs in the dataset.
++ Interactive Filters: Filters to allow users to segment the data by year, range, or type of vehicle for deeper analysis.
+  
+By completing this project, stakeholders will gain a comprehensive understanding of the current state of the electric vehicle market, enabling them to make data-driven decisions that support market growth and innovation.
+
