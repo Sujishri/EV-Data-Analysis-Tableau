@@ -72,3 +72,12 @@ The features of the project will include:
   
 By completing this project, stakeholders will gain a comprehensive understanding of the current state of the electric vehicle market, enabling them to make data-driven decisions that support market growth and innovation.
 
+
+
+
+
+
+
+
+Get the pulse of the electric vehicle industry through detailed data analytics.
+https://public.tableau.com/app/profile/suji.shri.b/viz/EVDATAANALAYSIS/Dashboard1
