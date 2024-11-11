@@ -78,6 +78,6 @@ By completing this project, stakeholders will gain a comprehensive understanding
 
 
 
-
+&nbsp;
 Get the pulse of the electric vehicle industry through detailed data analytics.
 https://public.tableau.com/app/profile/suji.shri.b/viz/EVDATAANALAYSIS/Dashboard1
